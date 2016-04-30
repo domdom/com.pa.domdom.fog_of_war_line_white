@@ -9,8 +9,8 @@
     "signature" : " ",
     "forum" : "https://forums.uberent.com/threads/rel-client-fog-of-war-lines.71671/",
     "icon" : "http://i.imgur.com/I9bk5Gc.png",
-    "category": ["titans", "classic", "effect"],
-    "version" : "1.0.0",
+    "category": ["titans", "classic", "effects"],
+    "version" : "1.0.1",
     "priority": 100
   }
 }

@@ -10,9 +10,9 @@
     "category": [
         "titans",
         "classic",
-        "effect"
+        "effects"
     ],
-    "version": "1.0.0",
+    "version": "1.0.1",
     "priority": 100,
     "build": "89755",
     "date": "2016/04/30"
