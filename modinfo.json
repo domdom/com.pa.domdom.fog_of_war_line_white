@@ -4,7 +4,6 @@
     "display_name": "Fog of War Lines White",
     "description": "Replaces normal fog of war effect with a light white border.",
     "author": "dom314",
-    "signature": " ",
     "forum": "https://forums.uberent.com/threads/rel-client-fog-of-war-lines.71671/",
     "icon": "http://i.imgur.com/I9bk5Gc.png",
     "category": [
@@ -12,8 +11,8 @@
         "classic",
         "effects"
     ],
-    "version": "1.0.1",
-    "priority": 100,
-    "build": "89755",
-    "date": "2016/04/30"
+    "version": "1.0.2",
+    "build": "94684",
+    "date": "2016/06/06",
+    "signature": " "
 }
